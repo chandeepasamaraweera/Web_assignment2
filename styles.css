@@ -1,0 +1,31 @@
+@charset "utf-8";
+.row .col-lg-4 .card.col-md-4.col-lg-12 {
+    background-color: grey;
+}
+.container-fluid {
+    background-color: black;
+}
+.container-fluid {
+}
+.row .col-lg-4 .card.col-md-4.col-lg-11 {
+    background-color: grey;
+}
+
+
+
+.col-lg-4 .card.col-md-4.col-lg-12 .card-img-top {
+    background-color: grey;
+}
+.card .col-md-4 .col-lg-11 {
+    background-color: grey;
+}
+#headingOne1 .mb-0 a {
+}
+body footer {
+    background-color: black;
+}
+#accordion1 {
+	background-color: darkgrey;
+}
+
+
